@@ -1,0 +1,3 @@
+echo "Starting Lookit for "$1
+find / | grep $1
+echo "End of Lookit"
